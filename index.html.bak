@@ -48,8 +48,20 @@ From October 2017 until May 2018, I was a visiting researcher in <a href="https:
 	“<a href="https://journals.sagepub.com/doi/full/10.1177/0142331214559120">LMI-based suﬃcient conditions for robust stability and stabilization of LTI-fractional-order systems subjected to interval and polytopic uncertainties</a>,”
 	<em> Transactions of the Institute of Measurement and Control</em>, vol.25, no. 10, pp. 1207-1216, 2015.</li></ul>
 	
-<em><strong>Conference Papers:</strong></em>	
-	<ul><li align="justify"><strong>S. Adelipour</strong>, M. Haeri, and G. Pannocchia,
+<em><strong>Conference Papers:</strong></em>
+	<ul><li align="justify"><strong>S. Adelipour</strong>, and M. Haeri,
+	“<a href="https://doi.org/10.1109/ICEE59167.2023.10334878">Privacy-preserving model predictive control using secure multi-party computation</a>,”
+	<em> The 31st International Conference on Electrical Engineering (ICEE 2023)</em>, May 2023, Tehran, Iran.</li>
+	
+	<li align="justify">Y. Esmaeili, M. Haeri, and <strong>S. Adelipour</strong>,
+	“<a href="https://doi.org/10.1109/ICEE59167.2023.10334894">Secure control system using iterative secret sharing</a>,”
+	<em> The 31st International Conference on Electrical Engineering (ICEE 2023)</em>, May 2023, Tehran, Iran.</li>
+	
+	<li align="justify">E. Amiri, M. Haeri, and <strong>S. Adelipour</strong>,
+	“<a href="https://doi.org/10.1109/ICEE59167.2023.10334819">Secret sharing implementation of predictive functional control</a>,”
+	<em> The 31st International Conference on Electrical Engineering (ICEE 2023)</em>, May 2023, Tehran, Iran.</li>
+	
+	<li align="justify"><strong>S. Adelipour</strong>, M. Haeri, and G. Pannocchia,
 	“<a href=" https://ieeexplore.ieee.org/abstract/document/8516722">Decentralized robust model predictive control for multi-input linear system</a>,”
 	<em> The 12th International UKACC Conference on Control</em>, September 2018, Sheﬃeld, United Kingdom.</li>
 	
@@ -81,7 +93,7 @@ From October 2017 until May 2018, I was a visiting researcher in <a href="https:
 <br>Department of Electrical Engineering, Sharif University of Technology
 <br>Azadi Ave., P. O. Box 11155-4363, Tehran, Iran <br>
 Tel : +98(21) 66165971 </p>
-<p align="right"> updated on Jan. 01, 2023.</p></footer>
+<p align="right"> Updated on Dec. 12, 2023.</p></footer>
 </body>
 
 </html>
