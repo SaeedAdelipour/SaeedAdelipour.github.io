@@ -10,7 +10,7 @@
 </head>
 
 <body data-new-gr-c-s-check-loaded="14.1071.0" data-gr-ext-installed=""><div class="flex-container"><div class="column">
-<header><h1>Saeed Adelipour</h1><aside>Postdoctoral Researcher at Sharif University of Technology</aside>
+<header><h1>Saeed Adelipour</h1><aside>Postdoctoral Research Fellow at Salford Business School, University of Salford</aside>
 <br><img srcset="Figures/picme.jpg" alt="My Picture" id="profile-photo">
 <p>
 <a href = "https://scholar.google.com/citations?user=jb1IKawAAAAJ&hl=en"> Google Scholar </a>
@@ -26,16 +26,24 @@
 <section>
 <p> <br> </p>
 <h2>About</h2>
-<p align="justify">I am a postdoctoral researcher in the Electrical Engineering Department at the <a href="https://www.sharif.edu/">Sharif University of Technology</a>, Tehran, Iran.
-I currently work on distributed model predictive control via secure multi-party computation under the supervision of <a href="http://ee.sharif.edu/~haeri/">Prof. Mohammad Haeri</a> at the Advanced Control Systems and Optimization Lab.
-<br>I received my B.Sc. in electrical engineering from Iran University of Science and Technology in 2011. 
-I completed my M.Sc. and Ph.D. in control systems engineering at Sharif University of Technology in 2013 and 2020, respectively. 
-From October 2017 until May 2018, I was a visiting researcher in <a href="https://people.unipi.it/gabriele_pannocchia/">Prof. Gabriele Pannocchia</a>'s Lab. at the University of Pisa, Italy.</p>
-<p align="justify">My research interest includes Robust and Model Predictive Control, Decentralized and Distributed Control, and Secure Network Control Systems.</p>
+
+<p align="justify">I am a Postdoctoral Research Fellow in Multi-Energy Systems and Communities at Salford Business School, <a href="https://www.salford.ac.uk/">University of Salford</a>, Manchester, UK. Under the supervision of <a href="https://www.salford.ac.uk/our-staff/vahid-vahidinasab">Prof. Vahid Vahidnassab</a>, my work focuses on resilient and sustainable energy communities, particularly in the areas of electrification and the integration of electric vehicles. I am part of the <a href="https://drive2x.eu/">DriVe2X</a> project, funded by Horizon Europe, EU H2020, and UK Research and Innovation (UKRI), which aims to accelerate the adoption of vehicle electrification through innovative bi-directional smart charging technologies.
+<br>Previously, I was a Postdoctoral Researcher in the Electrical Engineering Department at <a href="https://www.sharif.edu/">Sharif University of Technology</a>, Tehran, Iran. During this time, I received a grant from the Iran National Science Foundation to investigate secure multi-party computation methods for cyber-physical systems, enabling privacy-preserving outsourcing of computationally intensive control and optimization strategies. I conducted this research under the supervision of <a href="http://ee.sharif.edu/~haeri/">Prof. Mohammad Haeri</a> at the Advanced Control Systems and Optimization Lab.
+<br>I earned my B.Sc. in Electrical Engineering from the Iran University of Science and Technology in 2011. Subsequently, I completed my M.Sc. and Ph.D. in Control Systems Engineering at Sharif University of Technology in 2013 and 2020, respectively. From October 2017 to May 2018, I was a visiting researcher in <a href="https://people.unipi.it/gabriele_pannocchia/">Prof. Gabriele Pannocchia</a>'s lab at the University of Pisa, Italy.
+</p>
+<p align="justify">My research interest includes Robust and Model Predictive Control, Decentralized and Distributed Control, Privacy-preserving Computation and Energy Communities.</p>
 </div></div><hr>
 <h2>Publications</h2>
-<em><strong>Journal Articles:</strong></em>	
-	<ul><li align="justify"><strong>S. Adelipour</strong>, B. Ahi, and M. Haeri,
+<em><strong>Journal Articles:</strong></em>
+	<ul><li align="justify"><strong>S. Adelipour</strong> and M. Haeri,
+	“<a href="https://www.sciencedirect.com/science/article/pii/S0045790624001368">Private outsourced model predictive control via secure multi-party computation</a>,”
+	<em> Computers and Electrical Engineering</em>, vol. 116, p. 109208, 2024.</li>
+	
+	<li align="justify"><strong>S. Adelipour</strong> and M. Haeri,
+	“<a href="http://joc.kntu.ac.ir/article-1-997-en.html">A review of privacy preserving encrypted control for cyber-physical systems</a>,”
+	<em> Journal of Control</em>, vol. 17, no. 2, pp. 179-194, 2023. [<em>In Persian</em>]</li>
+	
+	<li align="justify"><strong>S. Adelipour</strong>, B. Ahi, and M. Haeri,
 	“<a href="https://doi.org/10.1007/s11071-020-05957-0">Dual mode global stabilization of high order saturated integrator chains:
 	LMI-based MPC combined with a nested saturated feedback</a>,”
 	<em> Nonlinear Dynamics</em>, vol. 102, pp. 211–222, 2020.</li>
@@ -46,7 +54,7 @@ From October 2017 until May 2018, I was a visiting researcher in <a href="https:
 	
 	<li align="justify"><strong>S. Adelipour</strong>, A. Abooee, and M. Haeri,
 	“<a href="https://journals.sagepub.com/doi/full/10.1177/0142331214559120">LMI-based suﬃcient conditions for robust stability and stabilization of LTI-fractional-order systems subjected to interval and polytopic uncertainties</a>,”
-	<em> Transactions of the Institute of Measurement and Control</em>, vol.25, no. 10, pp. 1207-1216, 2015.</li></ul>
+	<em> Transactions of the Institute of Measurement and Control</em>, vol. 25, no. 10, pp. 1207-1216, 2015.</li></ul>
 	
 <em><strong>Conference Papers:</strong></em>
 	<ul><li align="justify"><strong>S. Adelipour</strong>, and M. Haeri,
@@ -80,20 +88,20 @@ From October 2017 until May 2018, I was a visiting researcher in <a href="https:
 <h2>Theses</h2>		 
 	 <ul><li align="justify"><a href="http://library.sharif.ir/parvan/resource/478599/%DA%A9%D8%A7%D9%87%D8%B4-%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%BE%DB%8C%D8%B4%E2%80%8C%D8%A8%DB%8C%D9%86-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%BA%DB%8C%D8%B1%D8%AE%D8%B7%DB%8C-%DA%86%D9%86%D8%AF%D9%88%D8%B1%D9%88%D8%AF%DB%8C/&from=search&&query=%D8%B3%D8%B9%DB%8C%D8%AF%20%D8%B9%D8%A7%D8%AF%D9%84%DB%8C%20%D9%BE%D9%88%D8%B1&count=20&execute=true#!resource">
 			Computational Load Reduction in Model Predictive Control of Multi-Input Nonlinear Systems</a>,
-			<strong>Ph.D. Thesis</strong> in Control Systems Engineering , Sharif University of Technology, 2020. [<em>In Persian</em>]</li>
+			<strong>Ph.D. Thesis</strong> in Electrical Engineering (Control Systems Engineering) , Sharif University of Technology, 2020. [<em>In Persian</em>]</li>
 	<li align="justify"><a href="http://library.sharif.ir/parvan/resource/401822/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AA%D8%A8%D9%87-%DA%A9%D8%B3%D8%B1%DB%8C-%D8%AE%D8%B7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%B9%D8%AF%D9%85-%D9%82%D8%B7%D8%B9%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D9%88-%DA%86%D9%86%D8%AF%D9%88%D8%AC%D9%87%DB%8C/&from=search&&query=%D8%B3%D8%B9%DB%8C%D8%AF%20%D8%B9%D8%A7%D8%AF%D9%84%DB%8C%20%D9%BE%D9%88%D8%B1&count=20&execute=true">
 			Robust Stability and Stabilization of LTI Fractional Order Systems with Polytopic and Interval Uncertainties</a>,
-			<strong>Master's Thesis</strong> in Control Systems Engineering , Sharif University of Technology, 2013. [<em>In Persian</em>]</li></ul>		
+			<strong>Master's Thesis</strong> in Electrical Engineering (Control Systems Engineering) , Sharif University of Technology, 2013. [<em>In Persian</em>]</li></ul>		
 	
 </section>
 <hr>
 <footer>
 <h3>Contact</h3>
-<p> Advanced Control Systems and Optimization Lab.
-<br>Department of Electrical Engineering, Sharif University of Technology
-<br>Azadi Ave., P. O. Box 11155-4363, Tehran, Iran <br>
-Tel : +98(21) 66165971 </p>
-<p align="right"> Updated on Dec. 12, 2023.</p></footer>
+<p> Room 204, Maxwell Building,
+<br>Salford Business School, University of Salford,
+<br>Salford, Greater Manchester, UK, 
+<br>M5 4PE </p>
+<p align="right"> Updated on Jan. 2025.</p></footer>
 </body>
 
 </html>
